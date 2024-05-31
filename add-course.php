@@ -65,7 +65,7 @@ echo '<script>window.location.href=add-course.php</script>';
 									
 										<div class="form-group">
 											<div class="col-lg-4">
-					 <label>Course Short Name<span id="" style="font-size:11px;color:red">*</span>	</label>
+					 <label>Course  Name<span id="" style="font-size:11px;color:red">*</span>	</label>
 											</div>
 											<div class="col-lg-6">
 			
